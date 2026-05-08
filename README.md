@@ -101,7 +101,7 @@ This demo is a simplified illustration of the engineering principles behind:
 - **L3**: Cross-modal consistency verification for hallucination detection
 - **M1**: Conformal prediction-based dynamic threshold calibration
 
-Part of a 71-patent portfolio for embodied AI safety. [Contact us](mailto:https://github.com/aoright/safeguard-cbf-demo.git) for the full SafeGuard SDK.
+Part of a 71-patent portfolio for embodied AI safety. [Contact us](mailto:aorightyan@gmail.com) for the full SafeGuard SDK.
 
 ## License
 
